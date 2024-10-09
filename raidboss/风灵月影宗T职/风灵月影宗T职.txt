@@ -1,0 +1,11 @@
+放在ACT目录下的该路径下
+Plugins\cactbot-offline\user\raidboss
+确保目录结构如下：
+
+raidboss
+\__风灵月影宗T职
+    \__启动.mp3
+    \__关闭.mp3
+\__风灵月影宗T职.js
+
+作者：仑质

@@ -1,0 +1,12 @@
+放在ACT目录下的该路径下
+Plugins\cactbot-offline\user\raidboss
+确保目录结构如下：
+
+raidboss
+\__天音身位警察
+    \__音频1.mp3
+    \__音频2.mp3
+    \__音频3.mp3
+    \__音频4.mp3
+    \__...
+\__天音身位警察.js
